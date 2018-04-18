@@ -24,7 +24,7 @@ git clone https://github.com/<your username>/git-tutorial.git
 Using your favorite editor, open README.md  add this line below `Task 4`:
 
 ```
-![](./images/WelshCorgi.jpg)
+![](./images/WelshCorgi.jpeg)
 ```
 
 ## Task 4: Awwww!
